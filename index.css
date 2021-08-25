@@ -7,3 +7,12 @@ html,body{
     display: flex;
     flex-direction: row;
 }
+#main-content{
+    width: 75%;
+    border-style: solid;
+}
+#extras{
+    background-color: white;
+    border-style: dashed;
+    width: 25%;
+}
