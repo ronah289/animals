@@ -3,3 +3,7 @@ html,body{
     max-width: 100%;
     background-color: green;
 }
+#content{
+    display: flex;
+    flex-direction: row;
+}
